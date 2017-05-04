@@ -1,4 +1,4 @@
-## loopback-connector-mysql
+## loopback-connector-mysql 
 
 `loopback-connector-mysql` is the MySQL connector module for [loopback-datasource-juggler](https://github.com/strongloop/loopback-datasource-juggler/).
 
